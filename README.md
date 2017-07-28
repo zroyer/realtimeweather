@@ -1,4 +1,4 @@
-# rEaL tImE wEaThEr
+# rEaL tImE wEaThEr 🌤🌧
 
 ## setup
 
