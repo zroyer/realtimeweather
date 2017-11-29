@@ -1,4 +1,4 @@
-# rEaL tImE wEaThEr 🌤🌧
+# real time weather 🌤🌧
 
 ## setup
 
@@ -13,4 +13,4 @@
 - `npm install`
 - `npm start`
 
-- check that shit out at `localhost:3000`
+- check it out at `localhost:3000`
